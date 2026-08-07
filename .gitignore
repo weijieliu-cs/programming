@@ -1,2 +1,5 @@
-build/
+# Local compilation and test artifacts.
+/build/
+
+# macOS metadata.
 .DS_Store
