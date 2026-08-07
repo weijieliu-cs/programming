@@ -24,6 +24,7 @@ correctness.
 
 | Problem | Title | Statement | Solutions |
 | --- | --- | --- | --- |
+| 433B | Kuriyama Mirai's Stones | [Problem](codeforces-433b/problem.md) | [Python](codeforces-433b/solution.py) · [C](codeforces-433b/solution.c) · [C++](codeforces-433b/solution.cpp) |
 | 489B | BerSU Ball | [Problem](codeforces-489b/problem.md) | [Python](codeforces-489b/solution.py) · [C](codeforces-489b/solution.c) · [C++](codeforces-489b/solution.cpp) |
 
 ## Running a solution
